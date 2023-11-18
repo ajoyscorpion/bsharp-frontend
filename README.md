@@ -30,10 +30,14 @@ These instructions will get you a copy of the project up and running on your loc
    
 `npm start`
 
-The application should now be running at https://bsharp-music.netlify.app/.
+The application should now be running at http://localhost:3000
 
 ### Contributing
 Feel free to contribute to the project. Pull requests are welcome!
 
 ### Acknowledgments
 React - A JavaScript library for building user interfaces.
+
+The site is live at https://bsharp-music.netlify.app/
+
+Explore the server side at https://github.com/ajoyscorpion/bsharp-server
